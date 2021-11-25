@@ -1,0 +1,9 @@
+
+# for registry development
+nir:
+  host: db
+  name: IntensivRegisterReportDataStaging
+  user: root
+  pass: root
+  disp: ForIntensivDevOnly
+
