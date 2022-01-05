@@ -6,5 +6,5 @@ Speed up development processes for intensiv...
 ```docker build -t rapporteket/intensiv-dev .```
 
 ### Run
-Use ```docker-compose up``` from root of registry repository.
+Use ```docker-compose up``` from root of registry repository
 
